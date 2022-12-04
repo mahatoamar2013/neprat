@@ -615,7 +615,7 @@ header .navbar ul li a:hover{
   color: rgb(247, 243, 243);
   font-weight: 100;
   letter-spacing: 2px;
-  line-height: 0;
+  line-height: -5;
   word-wrap: break-word;
   font-family: 'Old Standard TT', serif;
   transition: 0.5s; 
@@ -626,7 +626,17 @@ header .navbar ul li a:hover{
   display: block;
    
 }
-
+.footer h2{
+  font-size: 15px;
+  color: rgb(247, 243, 243);
+  font-weight: 50;
+  letter-spacing: 2px;
+  line-height: 3;
+  word-wrap: break-word;
+  font-family: 'Old Standard TT', serif;
+  transition: 0.5s; 
+  text-align:center;
+}
 
 
 
